@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Babylon5CreditsRegular';
+    src: url('ba.eot');
+    src: url('ba.eot') format('embedded-opentype'),
+         url('ba.woff2') format('woff2'),
+         url('ba.woff') format('woff'),
+         url('ba.ttf') format('truetype'),
+         url('ba.svg#Babylon5CreditsRegular') format('svg');
+}

@@ -4,13 +4,20 @@
 		<title>KUATOplate</title>
 		<!-- Font -->
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 		<!-- Stylesheet -->
 		<link href="css/custom-base.css" rel="stylesheet" type="text/css"/>
 		<!-- jQuery -->
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="js/cycle.js"></script>
 	</head>
 	<body>
+		<div class="cycle-slideshow bg_img mobile" data-cycle-speed="5000" data-cycle-fx="fadeout">
+			<img src="img/bg1.jpg">
+			<img src="img/bg2.jpg">
+			<img src="img/bg3.jpg">
+		</div>
+
 		<div class="container">
 			 <div class="row">
 				<div class="col-6">
@@ -54,8 +61,8 @@ Jede Art von Zahnersatz ist so individuell wie der Patient der ihn trägt. Die B
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="brand-img"></div>
-					<div class="footer">
+				<div class="brand-img mobile"></div>
+					<div class="col-6 footer">
 						<div class="col-2">
 							<p>
 							Zahnspar-Zentrum Hamm
@@ -65,20 +72,22 @@ Jede Art von Zahnersatz ist so individuell wie der Patient der ihn trägt. Die B
 							59065 Hamm
 							</p>
 							<p>
-							<i class="fa fa-phone fa-fw lspace"></i>02381 / 2798266
+							02381 <span class="brand">//</span> 279 82 66
 							<br/>
-							<i class="fa fa-fax fa-fw lspace"></i>02381 / 2798033
+							02381 <span class="brand">//</span> 279 80 33
 							<br/>
-							<i class="fa fa-envelope-o fa-fw lspace"></i><a href="mailto:info@zahnspar-zentrum.de">info@zahnspar-zentrum.de</a>
+							<a href="mailto:info@zahnspar-zentrum.de">info@zahnspar-zentrum.de</a>
 							</p>
 						</div>
-						<div class="col-2">
+						<div class="col-2" style="text-align: center;">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2473.935904405029!2d7.809804554224591!3d51.67931627169304!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9740acdbe5c7d%3A0xd0ac8bd4caf700b3!2sBahnhofstra%C3%9Fe+11%2C+59065+Hamm!5e0!3m2!1sde!2sde!4v1410264033267" width="100%"  frameborder="0" style="border:0"></iframe>
 						</div>
-						<div class="col-2">
+						<div class="col-2 mobile" style="text-align: right;">
+								Hilfe bei hohen <br/>Zahnersatzkosten
 						</div>
 					</div>
 			</div>
+		</div>
 		</div>
 	</body>
 </html>

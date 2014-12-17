@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>KUATOplate</title>
+		<title>Zahnspar-Zentrum</title>
+		<meta charset="utf-8">
+		<meta http-equiv="expires" content="0">
 		<!-- Font -->
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>

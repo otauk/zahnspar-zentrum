@@ -27,11 +27,13 @@
 					<div class="header"></div>
 				</div>
 			 </div>
+			 <!--
 			 <div class="row">
 				<div class="col-6">
 					<div class="alert danger">Sparen Sie bis zu 80% Ihrer Zahnersatzkosten</div>
 				</div>
 			 </div>
+			 -->
 			<div class="row">
 		        <div class="col-3">
 			        <h1>Interviews mit unseren Kunden</h1>
@@ -67,14 +69,11 @@ Jede Art von Zahnersatz ist so individuell wie der Patient der ihn trägt. Die B
 					<h1>Erfahrungsberichte</h1>
 					<div class="slide_nav">
 						<nav>
-							<a class="nav_btn">
-								<input  type="radio" name="slidenav" checked="checked">
+							<a class="slide_nav button left">
 							</a>
-							<a class="nav_btn">
-								<input  type="radio" name="slidenav">
+							<a class="slide_nav button right">
 							</a>
 						</nav>
-
 					</div>
 
 						<div class="slide_content">
@@ -118,7 +117,7 @@ Aus der Zeitung erfuhr Gerlind H. von dem Beratungszentrum. Nach einer persönli
 					<div class="col-6 footer">
 						<div class="col-2">
 							<p>
-							Zahnspar-Zentrum Hamm
+							<span class="brand">Zahnspar-Zentrum</span>
 							<br/>
 							Bahnhofstr. 11
 							<br/>
@@ -133,10 +132,14 @@ Aus der Zeitung erfuhr Gerlind H. von dem Beratungszentrum. Nach einer persönli
 							</p>
 						</div>
 						<div class="col-2" style="text-align: center;">
+							<p>
 							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2473.935904405029!2d7.809804554224591!3d51.67931627169304!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9740acdbe5c7d%3A0xd0ac8bd4caf700b3!2sBahnhofstra%C3%9Fe+11%2C+59065+Hamm!5e0!3m2!1sde!2sde!4v1410264033267" width="100%"  frameborder="0" style="border:0"></iframe>
+							</p>
 						</div>
 						<div class="col-2 mobile" style="text-align: right;">
-								Hilfe bei hohen <br/>Zahnersatzkosten
+								<p>
+									Hilfe bei hohen <br/>Zahnersatzkosten
+								</p>
 						</div>
 					</div>
 			</div>

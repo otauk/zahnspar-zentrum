@@ -72,6 +72,15 @@
 @fs-h5:            	@fs-base;
 @fs-h6:            	ceil((@fs-base * 0.85)); // ~12px
 @line-height-base:        1.42857143;
+
+.hyphen () {
+	// -ms-word-break: break-all;
+    // word-break: break-all;
+    // word-break: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+    hyphens: auto;
+}
 /*
 *	=============================================
 *	ICONS
@@ -301,7 +310,7 @@ body {
 	text-align: justify;
 	-webkit-hyphens: auto;
    -moz-hyphens: auto;
-     hyphens: auto;
+    .hyphen ();
 	color: #555;
 	margin: 0;
 }
@@ -562,13 +571,16 @@ input {
 	width:350px;
 	height: 200px;
 	position: absolute;
-	margin: 140px 0 15px 88%;
+	margin-top: 20px;
 	z-index: @index-2;
-	zoom: 60%;
+	-ms-transform: scale(0.75) ;
+    -webkit-transform: scale(0.75);
+    transform: scale(0.75);
+	right:0;
 }
 
 p {
-	margin:0;
+	//margin:0;
 }
 
 @media all and (max-width:768px){
@@ -596,12 +608,22 @@ p {
 .cont_slice {float:left;width: @slide_width / @no_articles;background: #fff;height: 100%;}
 
 .slide_nav {
-    display: block;
     vertical-align: middle;
     color: #333;
 	text-align: center;
-}
+	font-size: @fs-large;
+	padding: 0 5px;
+	&.button {
+		&.left {
+			&:before {
+			.font-FA;
+			content:  "\f060";
+			}
+		}
 
-.nav_btn:hover {
-	background:#fff;
+		&.right:before {
+			.font-FA;
+			content:  "\f061";
+		}
+	}
 }

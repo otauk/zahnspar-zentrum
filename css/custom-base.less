@@ -333,15 +333,26 @@ body {
 	overflow:none;
 	}
 
-.footer {
-	background-color: #333;
-	color:#fff;
-	font-size: @fs-large;
-}
 .main {
 	padding-left: @space-base;
 	padding-right: @space-base;
 	line-height: @line-height-base;
+	position: relative;
+	z-index: @index-3;
+	& a:link, & a:active, & a:focus {
+		background-color:@primary;
+		color:#fff;
+	}
+}
+
+.footer {
+	background-color: #333;
+	color:#fff;
+	font-size: @fs-large;
+	& a:link, & a:active, & a:focus {
+		background-color:none !important;
+		color:#fff;
+	}
 }
 /*
 *	%%%%%%%%%%%%%%%%%%%%

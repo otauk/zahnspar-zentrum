@@ -15,7 +15,7 @@
 		<script src="js/cycle.js"></script>
 	</head>
 	<body>
-		<div class="cycle-slideshow bg_img mobile" data-cycle-speed="5000" data-cycle-fx="fadeout">
+		<div class="bg_img mobile" id="bg">
 			<img src="img/bg1.jpg">
 			<img src="img/bg2.jpg">
 			<img src="img/bg3.jpg">

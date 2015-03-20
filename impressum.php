@@ -19,7 +19,10 @@
 								E-Mail: <a href="mailto:info@zahnspar-zentrum.de">info@zahnspar-zentrum.de</a>
 								</p>
 								<h2>Quellenangaben für die verwendeten Bilder und Grafiken:</h2>
-								<p>DWP (fotolia.de)</p>
+								<p>Fotolia: Part of a skeletal prothesis &copy; Sandor Kacso (#48465046)</p>
+								<p>Fotolia: Prothetik &copy; comartist.de (#42716118)</p>
+								<p>Fotolia: Totalprothese - Kosten &copy; Sandor Kacso (#16197434)</p>
+								<p>Fotolia: vector winking happy smiling tooth &copy; VectorZilla.com (#8872065)</p>
 								<h2>Datenschutz</h2>
 								<p>
 								Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies soweit möglich stets auf freiwilliger Basis. Die Nutzung der Angebote und Dienste ist, soweit möglich, stets ohne Angabe personenbezogener Daten möglich.

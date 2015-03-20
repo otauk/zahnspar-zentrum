@@ -1,17 +1,10 @@
 /*
 *	##############################
-*	custom-base.css
-*	-	provides basic styles
-*	- useful for quick layouting / styling
-*	+++++
-*	version: 1.0
-*	+++++
-*
-*	Reassign Variables
-*	@alert-message-background: @brand-info;
-*	.alert {
-*		background-color: @alert-message-background;
-*	}
+*	CSS
+*	zahnspar-zentrum.de
+*	------------------------------
+*	Autor: KUATOproject
+*	v 1.0 (Release)
 *	##############################
 */
 /*
@@ -319,9 +312,19 @@ body {
 .bg_img {
 	z-index:0;
 	position:fixed;
+	margin: 0 auto;
 	width:100%;
-	height:100%;
-	overflow:hidden;
+	height: 100%;
+
+}
+
+.bg_img img {
+	height: 100%;
+	width:100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .header {
@@ -640,3 +643,25 @@ p {
 		}
 	}
 }
+
+.testimonial {
+	font-size: @fs-h3;
+	min-height:100%;
+	min-width: 100%;
+	padding:@space-base;
+	border: 1px solid @primary;
+	border-radius: 4px;
+	&:before {
+		font-size: @fs-h2;
+		content: '//';
+		color:@primary;
+	}
+}
+
+.testimonial-name {
+	font-style: italic;
+	text-align: right;
+	}
+
+
+

@@ -5,22 +5,34 @@
 					<div class="header"></div>
 				</div>
 			 </div>
-			 <!--
-			 <div class="row">
-				<div class="col-6">
-					<div class="alert danger">Sparen Sie bis zu 80% Ihrer Zahnersatzkosten</div>
-				</div>
-			 </div>
-			 -->
 			<div class="row">
 		        <div class="col-3">
-			        <h1>Interviews mit unseren Kunden</h1>
+			        <h1>Kundenmeinungen</h1>
+			        <div id="testimonial">
+					        <div class="testimonial"> Seit meinem Fahrradunfall fehlt mir Zahn. Dank der Beratung im <span class="brand">zahnspar-zentrum</span> konnte ich mir als Auszubildender ein Implantat leisten.
+						        <div class="testimonial-name">Tobias F., 22</div>
+					        </div>
+					        <div class="testimonial"> Ich habe eine Zahnszusatzversicherung. Kombiniert mit dem günstigen Zahnersatz vom <span class="brand">zahnspar-zentrum</span> musst ich bei meiner Versorgung nicht einen Cent dazu bezahlen.
+					        	<div class="testimonial-name">Simone K., 33</div>
+							</div>
+							<div class="testimonial"> Bei meiner kleinen Rente konnte ich mir keinen neuen Zahnersatz leisten. Die Berater haben sich viel Zeit für mich genommen und mich gründlich informiert. Gemeinsam haben wir eine Lösung gefunden.
+					        	<div class="testimonial-name">Elke P., 68</div>
+							</div>
+							<div class="testimonial"> Ich beziehe Hartz IV und benötige schon seit langer Zeit zwei Brücken. Im <span class="brand">zahnspar-zentrum</span> zeigte man mir, welche Möglichkeiten ich haben, die Kosten für meine Behandlung zu senken. Vielen Dank dafür.
+					        	<div class="testimonial-name">Tobias F., 22</div>
+							</div>
+					</div>
+					<!--
 					<p>
-						<iframe width="100%" height="360" src="//www.youtube.com/embed/p3lgDrKQMF0?list=RDEwQTmjK6zo0" frameborder="0" allowfullscreen></iframe>
+						<iframe width="100%" height="360" src="" frameborder="0" allowfullscreen></iframe>
 					</p>
+					-->
+					<!--
 					<h2>Kunden erzählen ihre Geschichte</h2>
 						Schauen Sie sich die Videos an und hören Sie von unseren Kunden selbst, wie zufrieden Sie mit dem Zahnspar-Zentrum sind. Erfahren Sie, wieso eine Rentnerin trotz hoher Behandlungskosten Weihnachtsgeschenke für die Enkel kaufen konnte und warum sich Polizist Jochen keine Sorgen mehr über die Kosten beim Zahnarzt machen muss.
+						-->
 		        </div>
+
 		        <div class="col-3">
 			        <h1 class="alert.danger">Das Zahnspar-Zentrum</h1>
 			       <p>

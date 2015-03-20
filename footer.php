@@ -11,9 +11,9 @@
 							59065 Hamm
 							</p>
 							<p>
-							02381 <span class="brand">//</span> 279 82 66
+							Tel.: 02381 <span class="brand">//</span> 279 82 66
 							<br/>
-							02381 <span class="brand">//</span> 279 80 33
+							Fax:  02381 <span class="brand">//</span> 279 80 33
 							<br/>
 							<a href="mailto:info@zahnspar-zentrum.de">info@zahnspar-zentrum.de</a>
 							</p>
@@ -43,6 +43,16 @@
 				$("nav a div").removeClass('current');
 				$(this).find('div').addClass('current');
 			});
+			$('#testimonial').cycle({
+				fx:    'fade',
+				timeout: 8000,
+				speed:  1500
+ 			});
+ 			$('#bg').cycle({
+				fx:    'fade',
+				speed:  5000,
+				slideResize: false
+ 			});
 		});
 	</script>
 </html>

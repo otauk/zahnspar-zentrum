@@ -15,7 +15,7 @@
 								<h2>Kontakt:</h2>
 								<p>
 								Telefon: 02381 <span class="brand">//</span> 279 82 66<br/>
-								Telefon: 02381 <span class="brand">//</span> 279 80 33<br/>
+								Telefax: 02381 <span class="brand">//</span> 279 80 33<br/>
 								E-Mail: <a href="mailto:info@zahnspar-zentrum.de">info@zahnspar-zentrum.de</a>
 								</p>
 								<h2>Quellenangaben für die verwendeten Bilder und Grafiken:</h2>

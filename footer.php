@@ -37,12 +37,39 @@
 		</div>
 	</body>
 	<script>
+/*
+		$(document).ready(function(){
+
+	  $(".owl-carousel").owlCarousel({
+	 loop:true,
+	 margin: 10,
+	 nav:true,
+	 items:1
+
+  });
+});
+*/
+
+var owl = $('.owl-carousel');
+owl.owlCarousel({
+	loop:true,
+	 margin: 10,
+	 nav:false,
+	 items:1,
+
+});
+// Go to the next item
+$('.slide_nav.button.right').click(function() {
+    owl.trigger('next.owl.carousel');
+})
+// Go to the previous item
+$('.slide_nav.button.left').click(function() {
+    // With optional speed parameter
+    // Parameters has to be in square bracket '[]'
+    owl.trigger('prev.owl.carousel');
+})
+
 		$(document).ready(function() {
-			$('nav').on('click', 'a', function(){
-				$(".slide_content").css("transform","translateX("+$(this).index() * -100+"%)");
-				$("nav a div").removeClass('current');
-				$(this).find('div').addClass('current');
-			});
 			$('#testimonial').cycle({
 				fx:    'fade',
 				timeout: 8000,

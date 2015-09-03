@@ -7,6 +7,11 @@
 *	v 1.0 (Release)
 *	##############################
 */
+
+
+@import "owl.theme.default.css";
+
+
 /*
 *	=============================================
 *	COLORS
@@ -604,30 +609,13 @@ p {
 	}
 }
 
-// Slider
-@slide_width: 100%;
-@no_articles: 2;
-
-.slide_container {
-	overflow: hidden;
-	margin:0 auto;
-}
-
-.slide_content {
-	-webkit-transition:all 1.0s ease-in-out;
-	-moz-transition:all 1.0s ease-in-out;
-	-o-transition:all 1.0s ease-in-out;
-	transition:all 1.0s ease-in-out;
-}
-.cont_wrap {width: @slide_width * @no_articles;}
-.cont_slice {float:left;width: @slide_width / @no_articles;background: #fff;height: 100%;}
 
 .slide_nav {
 	cursor: pointer;
     vertical-align: middle;
     color: #333;
 	text-align: center;
-	font-size: @fs-large;
+	font-size: @fs-h2;
 	padding: 0 5px;
 	&.button {
 		&.left {
@@ -663,5 +651,22 @@ p {
 	text-align: right;
 	}
 
+
+// Bilder Berichte
+.berichte {
+
+	& .copy {
+		float:left;
+		max-width:55%;
+	}
+
+	& img {
+		max-width:40%;
+		float: right;
+		box-shadow: 0px 1px 3px #333;
+		border-radius: 4px;
+		margin-left: 15px;
+	}
+}
 
 

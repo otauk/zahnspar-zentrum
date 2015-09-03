@@ -9,9 +9,14 @@
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 		<!-- Stylesheet -->
+		<link href="css/owl.carousel.css" rel="stylesheet" type="text/css"/>
+		<link href="css/owl.theme.default.css" rel="stylesheet" type="text/css"/>
 		<link href="css/custom-base.css" rel="stylesheet" type="text/css"/>
 		<!-- jQuery -->
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+
+
 		<script src="js/cycle.js"></script>
 	</head>
 	<body>

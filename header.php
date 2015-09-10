@@ -11,7 +11,7 @@
 		<!-- Stylesheet -->
 		<link href="css/owl.carousel.css" rel="stylesheet" type="text/css"/>
 		<link href="css/owl.theme.default.css" rel="stylesheet" type="text/css"/>
-		<link href="css/custom-base.css" rel="stylesheet" type="text/css"/>
+		<link href="css/custom-base.css?10092015" rel="stylesheet" type="text/css"/>
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/owl.carousel.min.js"></script>

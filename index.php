@@ -49,7 +49,10 @@
                             Tobias F., 22
                         </div>
                     </div>
-                </div><!--
+                </div>
+
+                <img src="img/empfang_02.jpg" alt="Empfangstheke" class="img" />
+                <!--
                     <p>
                         <iframe width="100%" height="360" src="" frameborder="0" allowfullscreen></iframe>
                     </p>
@@ -62,6 +65,7 @@
 
             <div class="col-3">
                 <h1 class="alert.danger">Das Zahnspar-Zentrum</h1>
+                <img src="img/empfang_01.jpg" alt="Empfangstheke" class="img" />
 
                 <p>Im <span class="brand">ZAHNSPAR-ZENTRUM</span> erhalten Sie die Möglichkeit, Ihre Zahnersatzkosten zu vergleichen und sich unverbindlich über Zahnersatz zu informieren. Dank der kostenfreien Preisvergleiche können Sie die Kosten Ihres Zahnersatzes stark senken und bei Ihrer Eigenzuzahlung bis zu 80% einsparen. Unser Motto lautet: Wir machen Zahnersatz bezahlbar!</p>
 
@@ -91,7 +95,7 @@
                     <div class="owl-carousel">
                         <div>
 	                    	<div class="berichte">
-		                    	<img src="img/img_text_2.jpg" alt="Erfahrungsbericht 1" />
+		                    	<img src="img/img_text_1.jpg" alt="Erfahrungsbericht 1" />
                             <h2>Ein zufriedenes Lächeln</h2>
 
                             <p>Holger S. (23) hatte sich nach langem Zögern doch entschlossen, mit seinen immer wiederkehrenden Zahnschmerzen zum Arzt zu gehen. Die Ursache für den Schmerz war zwar schnell gefunden, allerdings waren zur endgültigen Beseitigung leider einige Maßnahmen erforderlich.</p>
@@ -106,7 +110,7 @@
 
                         <div>
 	                        <div class="berichte">
-		                    	<img src="img/img_text_1.jpg" alt="Erfahrungsbericht 2" />
+		                    	<img src="img/img_text_2.jpg" alt="Erfahrungsbericht 2" />
                             <h2>Rentnerin spart 900€ beim Zahnersatz</h2>
 
                             <p>Zu Beginn des Jahres eröffnete das erste <span class="brand">ZAHNSPAR-ZENTRUM</span> in der Bahnhofstraße in Hamm. Es wird täglich von Patienten besucht, die den kostenfreien Beratungsservice für Zahnersatz in Anspruch nehmen. Anhand des Heil- und Kostenplans, den die Patienten von ihrem Zahnarzt erhalten, wird dann ein Vergleichsangebot erstellt. In allen Fällen konnten die Patienten bei ihrem Eigenanteil viel Geld sparen – manche sogar bis zu 80%.</p>

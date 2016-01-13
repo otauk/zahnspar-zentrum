@@ -19,7 +19,7 @@
 
                 <div id="testimonial">
                     <div class="testimonial">
-                        Seit meinem Fahrradunfall fehlt mir Zahn. Dank der Beratung im <span class="brand">zahnspar-zentrum</span> konnte ich mir als Auszubildender ein Implantat leisten.
+                        Seit meinem Fahrradunfall fehlt mir ein Zahn. Dank der Beratung im <span class="brand">zahnspar-zentrum</span> konnte ich mir als Auszubildender ein Implantat leisten.
 
                         <div class="testimonial-name">
                             Tobias F., 22
@@ -27,7 +27,7 @@
                     </div>
 
                     <div class="testimonial">
-                        Ich habe eine Zahnszusatzversicherung. Kombiniert mit dem günstigen Zahnersatz vom <span class="brand">zahnspar-zentrum</span> musst ich bei meiner Versorgung nicht einen Cent dazu bezahlen.
+                        Ich habe eine Zahnzusatzversicherung. Kombiniert mit dem günstigen Zahnersatz vom <span class="brand">zahnspar-zentrum</span> musste ich bei meiner Versorgung nicht einen Cent dazu bezahlen.
 
                         <div class="testimonial-name">
                             Simone K., 33
